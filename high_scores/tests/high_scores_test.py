@@ -8,7 +8,8 @@ from src.high_scores import latest, personal_best, personal_top_three
 class HighScoresTest(unittest.TestCase):
     
     # Tests
-    def
+    def massive change
+    
 
     # Test latest score (the last thing in the list)
     def test_latest_score(self):
